@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThrallEC
 - 👀 I’m interested in system design, computer theory and learning 
-- 🌱 I’m currently learning java, sql and javascript
+- 🌱 I’m currently learning java, sql and python
 - 💞️ I’m looking to collaborate on any small prodjects for experience
 - 📫 How to reach me on: Discord: ThrallEatsCookies#0217 | Telegram @ ThrallEC
