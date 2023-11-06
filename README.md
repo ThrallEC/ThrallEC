@@ -1,5 +1,1 @@
 - 👋 Hi, I’m ThrallEC
-- 👀 I’m interested in system design, computer theory and learning 
-- 🌱 I’m currently learning java, sql and linux
-- 💞️ I’m looking to collaborate on any small prodjects for experience
-- 📫 Feel free to reach out to me on: Discord: ThrallEatsCookies#0217 | Telegram @ThrallEC
